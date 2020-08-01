@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/hirakida/hirakida.svg)](http://hits.dwyl.com/hirakida/hirakida)
-
 <!--
 **hirakida/hirakida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
